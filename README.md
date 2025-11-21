@@ -7,6 +7,9 @@ pip install torch --index-url https://download.pytorch.org/whl/cu121
 
 # Install whisper
 pip install git+https://github.com/openai/whisper.git
+
+# Install dependencies
+pip install regex
 ```
 
 # Run
